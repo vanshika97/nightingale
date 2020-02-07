@@ -1,3 +1,3 @@
 # Florence Nightingale's Coxcomb
 
-Coursework for CS7DS4 module Trinity College Dublin
+Coursework for CS7DS4 module at Trinity College Dublin
